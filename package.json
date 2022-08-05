@@ -1,0 +1,30 @@
+{
+  "name": "knight-travails",
+  "version": "1.0.0",
+  "description": "A script to calculate the movements of a knight on a chess-board with the practical applications of a tree. Made for TOP.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lofty-Brambles/Knight-Travails.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lofty-Brambles/Knight-Travails/issues"
+  },
+  "homepage": "https://github.com/Lofty-Brambles/Knight-Travails#readme",
+  "dependencies": {
+    "eslint-config-prettier": "^8.5.0",
+    "prettier": "^2.7.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "typescript": "^4.7.4"
+  }
+}
